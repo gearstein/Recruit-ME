@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Contoh aja</description>
+   <name>RM-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9d28ad3-ec98-41cc-9564-e218098f46ee</testCaseGuid>
+</TestCaseEntity>
